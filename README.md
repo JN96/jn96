@@ -1,16 +1,45 @@
-### Hi there 👋
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#018001](https://via.placeholder.com/25/018001/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#ffffff](https://via.placeholder.com/25/ffffff/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
+![#fda504](https://via.placeholder.com/25/fda504/000000?text=+)
 
-<!--
-**JN96/jn96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm James 👋
+---
+I am a Software Engineer from Ireland IE.
 
-Here are some ideas to get you started:
+I enjoy working and tinkering with JavaScript and Node. I also enjoy drinking _large_ amounts of coffee ☕.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you would like to know more about me, take a look at [jn96.github.io](https://jn96.github.io/).
